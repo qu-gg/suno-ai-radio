@@ -18,3 +18,6 @@ There is no API to hit in Suno yet and it sounded like a fun day project.
 There are a few current limitations that can be addressed:
 - Currently only 30-60s clips are used, however a prototype of live-stitching longer songs is added in <code>wip_long_generation.py</code>. This requires some tuning, though.
 - Inputs are currently not taken for the song description (short version) or for lyrics and genre (long version). This can be fixed.
+
+#### Contributions
+100% happy to take PRs from those more knowledgeable on Selenium or those wanting to flesh out features!
